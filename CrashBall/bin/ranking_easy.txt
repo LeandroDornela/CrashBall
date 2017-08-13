@@ -1,9 +1,0 @@
-Fulano 5
-Ciclano 10
-Beltrano 15
-Crash 20
-leandro 26
- 50
-Leandro 64
- 64
-hemerson 80
