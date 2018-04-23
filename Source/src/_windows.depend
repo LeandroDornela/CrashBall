@@ -4363,3 +4363,508 @@
 1469389996 source:d:\desenvolvimento\projetos\crashball\crashball\src\sounds\soundmanager.cpp
 	"SoundManager.h"
 
+1469323691 source:d:\desenvolvimento\projetos\crashball\source\src\engine\camera\camera.cpp
+	"Camera.h"
+
+1469212452 d:\desenvolvimento\projetos\crashball\source\src\engine\camera\camera.h
+	"GL/glut.h"
+	"math.h"
+	"ctype.h"
+
+1466526792 d:\desenvolvimento\projetos\crashball\source\include\gl\glut.h
+	"freeglut_std.h"
+
+1466526788 d:\desenvolvimento\projetos\crashball\source\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1469847242 source:d:\desenvolvimento\projetos\crashball\source\src\engine\gamemanager.cpp
+	"GameManager.h"
+	"../Engine/Mesh.h"
+	<time.h>
+	"../Scripts/LightController.h"
+	"../Scripts/Cenario.h"
+	"../Scripts/Objects.h"
+	"../Scripts/CameraController.h"
+	"../Engine/ShadowCreator.h"
+	<stdio.h>
+	<GL/glut.h>
+
+1469389506 d:\desenvolvimento\projetos\crashball\source\src\engine\gamemanager.h
+	"../Objects/Ball.h"
+	"../Objects/Player.h"
+	<time.h>
+	<stdio.h>
+	"../Interface/Interface.h"
+	"../Engine/Material/Material.h"
+	"../Sounds/SoundManager.h"
+	<SFML/System/Clock.hpp>
+
+1469394976 d:\desenvolvimento\projetos\crashball\source\src\objects\ball.h
+	<GL/glut.h>
+	<math.h>
+	"../Engine/GameObject.h"
+	"Player.h"
+	"iostream"
+	"../Engine/Physics/SphereCollider.h"
+	<stdio.h>
+
+1467210718 d:\desenvolvimento\projetos\crashball\source\src\engine\gameobject.h
+	<stdio.h>
+
+1469037672 d:\desenvolvimento\projetos\crashball\source\src\objects\player.h
+	<math.h>
+	<GL/glut.h>
+	"../Engine/GameObject.h"
+	"Ball.h"
+	"Wall.h"
+	"../Engine/Physics/SphereCollider.h"
+
+1467599112 d:\desenvolvimento\projetos\crashball\source\src\objects\wall.h
+	"../Engine/GameObject.h"
+	"../Engine/Mesh.h"
+	"../Engine/Physics/PlaneCollider.h"
+
+1469243489 d:\desenvolvimento\projetos\crashball\source\src\engine\mesh.h
+	"GL/glut.h"
+	"Vertex3d.h"
+	<math.h>
+	"../Engine/Material/glcTexture.h"
+	<string.h>
+	<iostream>
+
+1467210724 d:\desenvolvimento\projetos\crashball\source\src\engine\vertex3d.h
+	<stdio.h>
+	<stdlib.h>
+
+1469305418 d:\desenvolvimento\projetos\crashball\source\src\engine\material\glctexture.h
+	<string>
+
+1467165576 d:\desenvolvimento\projetos\crashball\source\src\engine\physics\planecollider.h
+	"Collider.h"
+
+1467165570 d:\desenvolvimento\projetos\crashball\source\src\engine\physics\collider.h
+	<string>
+	<iostream>
+	"../GameObject.h"
+
+1467165576 d:\desenvolvimento\projetos\crashball\source\src\engine\physics\spherecollider.h
+	"Collider.h"
+
+1469816091 d:\desenvolvimento\projetos\crashball\source\src\interface\interface.h
+	"GL/glut.h"
+	"../Engine/GameObject.h"
+	"../Engine/glcText.h"
+	"../Engine/Material/glcTexture.h"
+	"Menu.h"
+	<time.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1467210718 d:\desenvolvimento\projetos\crashball\source\src\engine\glctext.h
+
+1469816091 d:\desenvolvimento\projetos\crashball\source\src\interface\menu.h
+	"GL/glut.h"
+	<iostream>
+	<list>
+	"../Engine/glcText.h"
+	"../Engine/Material/glcTexture.h"
+
+1468116566 d:\desenvolvimento\projetos\crashball\source\src\engine\material\material.h
+	"GL/glut.h"
+
+1469388500 d:\desenvolvimento\projetos\crashball\source\src\sounds\soundmanager.h
+	<SFML/Audio.hpp>
+	<iostream>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/OutputSoundFile.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundFileFactory.hpp>
+	<SFML/Audio/SoundFileReader.hpp>
+	<SFML/Audio/SoundFileWriter.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1441994892 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1436052026 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\utf.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\string.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\thread.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\threadlocalptr.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1436052026 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\outputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1436052026 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<string>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundfilefactory.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+	<vector>
+	<SFML/Audio/SoundFileFactory.inl>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundfilefactory.inl
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundfilereader.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1429798454 d:\desenvolvimento\projetos\crashball\source\bin\sfml-2.3.2\include\sfml\audio\soundfilewriter.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1469325352 d:\desenvolvimento\projetos\crashball\source\src\scripts\lightcontroller.h
+	"../Engine/Light/SpotLight.h"
+	"../Engine/Light/PointLight.h"
+
+1467577890 d:\desenvolvimento\projetos\crashball\source\src\engine\light\spotlight.h
+	"GL/glut.h"
+
+1469212626 d:\desenvolvimento\projetos\crashball\source\src\engine\light\pointlight.h
+	"GL/glut.h"
+
+1469846928 d:\desenvolvimento\projetos\crashball\source\src\scripts\cenario.h
+	"../Objects/Wall.h"
+	"../Engine/ObjReader/ObjReader.h"
+
+1469667278 d:\desenvolvimento\projetos\crashball\source\src\engine\objreader\objreader.h
+	"glm.h"
+	"../Material/glcTexture.h"
+
+955141084 d:\desenvolvimento\projetos\crashball\source\src\engine\objreader\glm.h
+	<GL/glut.h>
+
+1469667355 d:\desenvolvimento\projetos\crashball\source\src\scripts\objects.h
+	"../Objects/Ball.h"
+	"../Objects/Player.h"
+
+1469285668 d:\desenvolvimento\projetos\crashball\source\src\scripts\cameracontroller.h
+	"../Engine/Camera/Camera.h"
+
+1469641719 d:\desenvolvimento\projetos\crashball\source\src\engine\shadowcreator.h
+	"../Engine/Material/glcTexture.h"
+
+1467210718 source:d:\desenvolvimento\projetos\crashball\source\src\engine\gameobject.cpp
+	"GameObject.h"
+
+1467210718 source:d:\desenvolvimento\projetos\crashball\source\src\engine\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1469212556 source:d:\desenvolvimento\projetos\crashball\source\src\engine\light\pointlight.cpp
+	"PointLight.h"
+	"iostream"
+
+1468743082 source:d:\desenvolvimento\projetos\crashball\source\src\engine\light\spotlight.cpp
+	"SpotLight.h"
+	"../Material/Material.h"
+
+1469847210 source:d:\desenvolvimento\projetos\crashball\source\src\engine\main.cpp
+	<iostream>
+	<stdio.h>
+	"../Engine/GameManager.h"
+	<GL/glut.h>
+	"GL/glext.h"
+
+1468100114 d:\desenvolvimento\projetos\crashball\source\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1469643211 source:d:\desenvolvimento\projetos\crashball\source\src\engine\material\glctexture.cpp
+	<string>
+	<stdio.h>
+	<malloc.h>
+	"GL/glut.h"
+	"png.h"
+	"glcTexture.h"
+
+1466526792 d:\desenvolvimento\projetos\crashball\source\include\png\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1466526796 d:\desenvolvimento\projetos\crashball\source\include\zlib\zlib.h
+	"zconf.h"
+
+1466526796 d:\desenvolvimento\projetos\crashball\source\include\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1466526792 d:\desenvolvimento\projetos\crashball\source\include\png\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1468734226 source:d:\desenvolvimento\projetos\crashball\source\src\engine\material\material.cpp
+	"Material.h"
+
+1468105532 source:d:\desenvolvimento\projetos\crashball\source\src\engine\objreader\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1467165570 source:d:\desenvolvimento\projetos\crashball\source\src\engine\physics\collider.cpp
+	"Collider.h"
+
+1467165574 source:d:\desenvolvimento\projetos\crashball\source\src\engine\physics\planecollider.cpp
+	"PlaneCollider.h"
+	"GL/glut.h"
+	"math.h"
+
+1469386629 source:d:\desenvolvimento\projetos\crashball\source\src\engine\physics\spherecollider.cpp
+	"SphereCollider.h"
+	"typeinfo"
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	"../../Objects/Wall.h"
+
+1467210724 source:d:\desenvolvimento\projetos\crashball\source\src\engine\vertex3d.cpp
+	"Vertex3d.h"
+	<math.h>
+
+1469816110 source:d:\desenvolvimento\projetos\crashball\source\src\interface\interface.cpp
+	"Interface.h"
+	"GL/glut.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1469815292 source:d:\desenvolvimento\projetos\crashball\source\src\interface\menu.cpp
+	"Menu.h"
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+
+1469723001 source:d:\desenvolvimento\projetos\crashball\source\src\objects\ball.cpp
+	"Ball.h"
+	<stdio.h>
+
+1469057706 source:d:\desenvolvimento\projetos\crashball\source\src\objects\player.cpp
+	"Player.h"
+	<stdio.h>
+
+1467210724 source:d:\desenvolvimento\projetos\crashball\source\src\objects\wall.cpp
+	"Wall.h"
+
+1469389996 source:d:\desenvolvimento\projetos\crashball\source\src\sounds\soundmanager.cpp
+	"SoundManager.h"
+
